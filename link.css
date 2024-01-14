@@ -1,0 +1,22 @@
+.text{
+    text-decoration: underline;
+    text-decoration: bold;
+    
+}
+body{
+    color:maroon;
+    min-height: 100vh;
+    background-image: url(https://i.ytimg.com/vi/yD1SlGWIEV0/maxresdefault.jpg);
+    background-color: rgb(250, 249, 249);
+    background-size: cover;
+    background-position: center;    
+    
+}
+h1{
+
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}

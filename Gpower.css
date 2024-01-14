@@ -1,0 +1,22 @@
+.text{
+    text-decoration: underline;
+    text-decoration: bold;
+    
+}
+body{
+    color:black;
+    min-height: 100vh;
+    background-image: url(https://media.evo.co.uk/image/private/s--89uvpAjH--/f_auto,t_content-image-full-desktop@1/v1604593220/evo/2020/11/G-Power%20G5M%20Hurricane%20RR%20BMW%20M5.jpg);
+    background-color: rgb(250, 249, 249);
+    background-size: cover;
+    background-position: center;    
+    
+}
+h1{
+    
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}

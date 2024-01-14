@@ -1,0 +1,28 @@
+h1{
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+.text{
+  text-decoration: underline;
+  text-decoration: bold;
+  
+}
+body{
+  color:maroon;
+  min-height: 100vh;
+  background-image: url(https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/Images/modelseriesimages/M5%20Competition%20Edition/M5%20competetion.jpg);
+ 
+  background-color: rgb(250, 249, 249);
+  background-size: cover;
+  background-position: center;    
+  
+}
+h1{
+
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: bold;
+
+}

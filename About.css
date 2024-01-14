@@ -1,0 +1,16 @@
+.text{
+    text-decoration: underline;
+}
+body{
+    color: white;
+    min-height: 100vh;
+    background-image: url(https://c8.alamy.com/comp/CPTR4E/m-power-imprint-on-the-engine-of-a-vintage-m-series-bmw-CPTR4E.jpg);
+    background-color: rgb(250, 249, 249);
+    background-size: cover;
+    background-position: center;
+
+}
+h1{
+    color: white;
+
+}

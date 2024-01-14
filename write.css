@@ -1,0 +1,24 @@
+.text{
+    text-decoration: underline;
+    
+    
+}
+body{
+    color:bisque;
+    min-height: 100vh;
+    background-image: url(https://media.evo.co.uk/image/private/s--xg_RhTCR--/f_auto,t_content-image-full-mobile@1/v1556221056/evo/2018/08/bmw-m5-comp-118.jpg);
+    background-color: rgb(250, 249, 249);
+    background-size: cover;
+    background-position: center;    
+    
+}
+h1{
+    text-align: center;
+     
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+
+

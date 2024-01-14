@@ -1,0 +1,19 @@
+.text{
+    text-decoration: underline;
+    
+}
+body{
+    color: white;
+    min-height: 100vh;
+    background-image: url(https://i.auto-bild.de/ir_img/2/3/0/0/1/3/7/1bc197bb17364819.jpg);
+    background-color: rgb(250, 249, 249);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: white;
+
+}
+
+  
+  

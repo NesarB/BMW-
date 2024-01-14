@@ -1,0 +1,22 @@
+
+body{
+    color: white;
+    min-height: 100vh;
+background-image: url(https://wheelforce.de/wp-content/uploads/2022/04/LIB03848.jpg);
+background-color: rgb(250, 249, 249);
+background-size: cover;
+background-position: center;    
+
+}
+.text{
+    text-decoration: underline;
+    text-align: center;
+}
+h1{
+
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+

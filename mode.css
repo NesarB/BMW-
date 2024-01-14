@@ -1,0 +1,22 @@
+.text{
+    text-decoration: underline;
+    text-decoration: bold;
+    
+}
+body{
+    color:white;
+    min-height: 100vh;
+    background-image: url(https://cloud.exclusiveresorts.com/image/upload/e_vibrance:20/f_auto,q_auto/v1650312877/erassets/Club%20Journal/BMW-M5-COMPETITION/BMW%20M5%20061_cmqxhl);
+    background-color: rgb(250, 249, 249);
+    background-size: cover;
+    background-position: center;    
+    
+}
+h1{
+    
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}

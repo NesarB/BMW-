@@ -1,0 +1,18 @@
+.text{
+    text-decoration: underline;
+    text-align: end;
+    
+}
+body{
+    color:bisque;
+    min-height: 100vh;
+    background-image: url(https://mediapool.bmwgroup.com/cache/P9/201805/P90303126/P90303126-the-new-bmw-m5-competition-05-2018-2121px.jpg);
+    background-color: rgb(250, 249, 249);
+    background-size: cover;
+    background-position: center;    
+    
+}
+h1{
+    color: coral
+
+}
